@@ -1,4 +1,4 @@
-# SAP NetWeaver Migration from On-Prem (s) to AWS
+# SAP NetWeaver Migration from On-Prem (simulated) to AWS
 
 This repository provides the necessary resources and documentation for migrating a simulated deployment of SAP NetWeaver on AWS to a different AWS environment.
 
