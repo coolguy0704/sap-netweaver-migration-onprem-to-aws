@@ -2,6 +2,9 @@
 
 This repository provides the necessary resources and documentation for migrating a simulated deployment of SAP NetWeaver on AWS to a different AWS environment.
 
+
+![sap](https://user-images.githubusercontent.com/116753469/227112172-eb555e38-edb3-4c19-97a8-cb38eed9a1de.png)
+
 ## Overview
 
 The migration process involves the following high-level steps:
